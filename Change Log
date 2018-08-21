@@ -1,0 +1,11 @@
+Change Log
+
+v0.5.0:
+  Initial proram wrote with 1 function, opening programs. 
+  These programs included Steam, Spotify, Discord, VSCode, Google Chrome and Microsoft Edge. 
+  This version did not work properly.
+
+v1.0.0:
+  Program suupport such as steam VSCode, Google Chrome, Microsoft Edge and Spotify are stable. 
+  Discord currently is missing its code. 
+  Program has one other feature added to it in this version, the function to tell time, it is however an hour behind.
